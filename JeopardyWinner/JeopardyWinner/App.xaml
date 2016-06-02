@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="JeopardyWinner.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JeopardyWinner"
+    RequestedTheme="Light">
+
+</Application>
